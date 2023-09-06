@@ -7,7 +7,7 @@ Authors: Xuefei Lu, Alessandro Rudi, Emanuele Borgonovo, Lorenzo Rosasco
 
 * The codes used for the 21-Input Simulator are included.
 
-Requires DACE - A Matlab Kriging Toolbox, Version 2.0, available at http://www.omicron.dk/dace.html
+To reproduce the comparison with DACE: You may download DACE - A Matlab Kriging Toolbox, Version 2.0, at http://www.omicron.dk/dace.html
 
 * Contact us:
 Xuefei.lu@ed.ac.uk
