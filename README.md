@@ -10,6 +10,6 @@ Authors: Xuefei Lu, Alessandro Rudi, Emanuele Borgonovo, Lorenzo Rosasco
 To reproduce the comparison with DACE: You may download DACE - A Matlab Kriging Toolbox, Version 2.0, at http://www.omicron.dk/dace.html
 
 * Contact us:
-Xuefei.lu@ed.ac.uk
+xuefei.lu@skema.edu
 
 
